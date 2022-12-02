@@ -8,10 +8,6 @@
  - <h2>Certifications</h3>
  - [CompTIA A+](https://prnt.sc/GBgWk0UQ9aAc)
 
-<h3>📺 Popular YouTube Videos</h3>
-
-- [Active Directory Homelab Tutorial](youtube.com/3xogmel)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Mel Archibald | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -19,8 +15,8 @@
 [<img align="left" alt="Mel Archibald | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mel Archibald| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/3xogmel/
 [linkedin]: https://linkedin.com/in/melarchibald
 
